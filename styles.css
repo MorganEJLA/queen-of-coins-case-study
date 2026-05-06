@@ -10,7 +10,7 @@
   --cream: #f0e8d0;
   --gold: #e1b12f;
 
-  --teal: #067979;
+  --teal: #4db8b8;
 
   --text: rgba(245, 237, 214, 0.9);
 }
@@ -267,9 +267,8 @@ p:last-child {
   background: rgba(201, 168, 76, 0.14);
 }
 .btn-secondary {
-  border: 1px solid rgba(45, 140, 140, 0.4);
-  color: var(--teal);
-  background: transparent;
+  border: 1px solid rgba(77, 184, 184, 0.4);
+  color: #4db8b8;
 }
 .btn-secondary:hover {
   background: rgba(45, 140, 140, 0.08);
